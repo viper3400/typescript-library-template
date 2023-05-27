@@ -42,7 +42,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@ava/typescript": "^3.0.1",
+    "@ava/typescript": "^4.0.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
